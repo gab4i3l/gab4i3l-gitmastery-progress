@@ -131,5 +131,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1768385919.734929,
+    "completed_at": 1768385924.392779,
+    "comments": [
+      "/Users/gabrielphua/Desktop/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
+    ],
+    "status": "Error"
   }
 ]
